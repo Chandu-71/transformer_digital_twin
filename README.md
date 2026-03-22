@@ -70,7 +70,7 @@ AI enables the system to move beyond reactive monitoring by:
 ## How to Run
 
 ```bash
-pip install streamlit pandas numpy plotly scikit-learn
+pip install -r requirements.txt
 streamlit run main_app.py
 ```
 
